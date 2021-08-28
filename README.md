@@ -1,4 +1,4 @@
-# desafio01-conceitos-do-react
+# Desafio 01 - IGNITE Rocketseat (TO-DO LIST)
 Primeiro desafio do curso Ignite da Rocketseat (Trilha ReactJS)
 
 TO-DO LIST
